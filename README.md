@@ -26,11 +26,11 @@ You need to build this project before you use add it to Chrome as a developer ex
 
 To load as a developer extension inside of Chrome:
 
-`npm run build` <br>
-Navigate to `chrome://extensions/` in your browser <br>
-Toggle the `Developer mode` switch on in the top right hand corner <br>
-Click the `Load unpacked` button in the top left corner <br>
-Select the `build` folder inside of this project folder <br>
+1. `npm run build` <br>
+2. Navigate to `chrome://extensions/` in your browser <br>
+3. Toggle the `Developer mode` switch on in the top right hand corner <br>
+4. Click the `Load unpacked` button in the top left corner <br>
+5. Select the `build` folder inside of this project folder <br>
 
 Builds the app for Chrome to the `build` folder.<br>
 
