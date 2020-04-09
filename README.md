@@ -2,6 +2,10 @@ This project is made possible by the countless hours I've spent (and continue to
 
 If you're a web developer (you likely are if you've stumbled across this project), I'd really appreciate it if you could spare 2 minutes of your busy schedule to check out StyleStash. I honestly think you'll find it really useful.
 
+## react-chrome-extension
+
+![Alt text](./react-chrome-extension.png?raw=true "Optional Title")
+
 ## Video Tutorials
 
 This is a passion project of mine, therefore I've decided to give away a large chunk of code for free -- as well as perform a code walkthrough of sorts available here.
