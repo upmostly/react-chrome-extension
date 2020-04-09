@@ -5,7 +5,7 @@ This is the first in a series of React boilerplate projects to help web develope
 
 ## Video Code Walkthrough
 
-If you're more of a visual learner, I've recorded a [20 minute video walkthrough of this project (https://www.youtube.com/watch?v=4x0lQu1TOCQ).
+If you're more of a visual learner, I've recorded a [20 minute video walkthrough of this project](https://www.youtube.com/watch?v=4x0lQu1TOCQ).
 
 ### Local Testing
 
