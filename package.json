@@ -1,0 +1,41 @@
+{
+  "name": "react-chrome-extension-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "3.4.1",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-draggable": "4.0.3",
+    "react-feather": "2.0.3",
+    "react-scripts": "3.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "cross-env INLINE_RUNTIME_CHUNK=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app",
+    "env": {
+      "browser": true,
+      "webextensions": true
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cross-env": "7.0.2"
+  }
+}
