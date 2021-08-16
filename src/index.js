@@ -4,7 +4,9 @@ import App from './App';
 
 ReactDOM.render(
   <>
-    <App />
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
   </>, document.getElementById('modal-window'));
 
 // If you want your app to work offline and load faster, you can change
